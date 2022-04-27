@@ -1,0 +1,18 @@
+Column,Null Count,Null %
+age,0,0.0
+job,288,0.006370131162770122
+marital,0,0.0
+education,1857,0.04107407489327818
+default,0,0.0
+balance,0,0.0
+housing,0,0.0
+loan,0,0.0
+contact,0,0.0
+day,0,0.0
+month,0,0.0
+duration,0,0.0
+campaign,0,0.0
+pdays,0,0.0
+previous,0,0.0
+poutcome,5,0.00011059255490920351
+Target,0,0.0
